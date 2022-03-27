@@ -7,11 +7,11 @@ console.log('První příklad - vzestupná řada 0 - 10');
 
 //TADY NAPIS CYKLUS
 
-for (let i = 0; i <= 10; i = i + 1) {
-  console.log(i);
+let a = 0;
+while (a < 10) {
+  console.log(a);
+  a++;
 }
-console.log('-------------------');
-
 
 
 // Druhý příklad - zkopíruj předchozí příklad
