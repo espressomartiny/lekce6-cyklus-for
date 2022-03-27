@@ -37,7 +37,7 @@ console.log('Třetí příklad - sestupná řada 10 - 0');
 //TADY NAPIS CYKLUS
 
 // let c = 10;
-// while (c > 0) {
+// while (c >= 0) {
 //   console.log(c);
 //   c - 1;
 // }
